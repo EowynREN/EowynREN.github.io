@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Yuan Ren"
 title_separator          : "-"
-name                     : &name "Yuan REn"
+name                     : &name "Yuan Ren"
 description              : &description "Ph.D. student, Electrical Engineering and Computer Science, University of California, Merced"
 url                      : https://eowynren.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
