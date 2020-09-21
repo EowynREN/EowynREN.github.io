@@ -8,8 +8,9 @@ redirect_from:
 ---
 
 {% include base_path %}
-
-Education
+[Click to View My Up-to-date Curriculum Vitae [PDF]](http://eowynren.github.io/files/cv.pdf)
+<!-- <embed src="http://eowynren.github.io/files/cv.pdf" width="650" height="1800" type='application/pdf'> -->
+<!-- Education
 ======
 * B.S. in GitHub, GitHub University, 2012
 * M.S. in Jekyll, GitHub University, 2014
@@ -57,3 +58,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+ -->
