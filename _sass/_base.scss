@@ -77,8 +77,10 @@ del a {
 td, th, tr, table {
    border: 0 !important;
    border-spacing:0 !important;
- }
-
+}
+colgroup {
+    display: table-column-group;
+}
 /* reduce orphans and widows when printing */
 
 p, pre, blockquote, ul, ol, dl, figure, table, fieldset {
