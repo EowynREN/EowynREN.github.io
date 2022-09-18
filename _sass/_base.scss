@@ -74,9 +74,10 @@ del a {
   color: inherit;
 }
 
-table, td, th {
-  border: 0px solid transparent;
-}
+td, th, tr, table {
+   border: 0 !important;
+   border-spacing:0 !important;
+ }
 
 /* reduce orphans and widows when printing */
 
