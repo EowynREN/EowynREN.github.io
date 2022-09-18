@@ -25,7 +25,7 @@ News
       <col width="85%" />
     </colgroup>
     <tr>
-      <td><b>Jun 2022<b></td><td>A paper "Push, Tap, Dwell, and Pinch: Evaluation of Four Mid-Air Selection Methods Augmented with Ultrasonic Haptic Feedback" is accepted. In Proceedings of the 2022 ACM International Conference on Interactive Surfaces and Spaces (ISS 2022)</td>
+      <td><p><b>Jun 2022</b></p></td><td>A paper "Push, Tap, Dwell, and Pinch: Evaluation of Four Mid-Air Selection Methods Augmented with Ultrasonic Haptic Feedback" is accepted. In Proceedings of the 2022 ACM International Conference on Interactive Surfaces and Spaces (ISS 2022)</td>
     </tr>
   </tbody>
 </table>
