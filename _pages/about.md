@@ -18,6 +18,13 @@ I received my Master Degree in [University of Southern California](https://www.u
 
 News
 ------
+<table>
+  <tbody>
+    <tr>
+      <td>Jun 2022</td><td>A paper "Push, Tap, Dwell, and Pinch: Evaluation of Four Mid-Air Selection Methods Augmented with Ultrasonic Haptic Feedback" is accepted. In Proceedings of the 2022 ACM International Conference on Interactive Surfaces and Spaces (ISS 2022)</td>
+    </tr>
+  </tbody>
+</table>
 <p><b>Jun 2022</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A paper "Push, Tap, Dwell, and Pinch: Evaluation of Four Mid-Air Selection Methods Augmented with Ultrasonic Haptic Feedback" is accepted. In Proceedings of the 2022 ACM International Conference on Interactive Surfaces and Spaces (ISS 2022)</p>
 <p><b>Mar 2022</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Accepted internship at Google AR. Will begin in May 2022!</p>
 <p><b>Sep 2021</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A paper "Stepper, Swipe, Tilt, Force: Comparative Evaluation of Four Number Pickers for Smartwatches" is accepted. In Proceedings of the 2021 ACM International Conference on Interactive Surfaces and Spaces (ISS 2021)</p>
