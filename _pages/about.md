@@ -18,7 +18,7 @@ I received my Master Degree in [University of Southern California](https://www.u
 
 News
 ------
-<table>
+<table style="font-size:18px">
   <tbody>
     <colgroup>
       <col width="15%" />
