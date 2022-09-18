@@ -74,6 +74,10 @@ del a {
   color: inherit;
 }
 
+table, td, th {
+  border: 0px solid transparent;
+}
+
 /* reduce orphans and widows when printing */
 
 p, pre, blockquote, ul, ol, dl, figure, table, fieldset {
