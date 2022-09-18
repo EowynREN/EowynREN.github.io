@@ -26,7 +26,7 @@ News
     </colgroup>
     <tr>
       <td><p><b>Jun 2022</b></p></td>
-      <td><p>A paper "Push, Tap, Dwell, and Pinch: Evaluation of Four Mid-Air Selection Methods Augmented with Ultrasonic Haptic Feedback" is accepted. In Proceedings of the 2022 ACM International Conference on Interactive Surfaces and Spaces (ISS 2022)<p></td>
+      <td><p>A paper "Push, Tap, Dwell, and Pinch: Evaluation of Four Mid-Air Selection Methods Augmented with Ultrasonic Haptic Feedback" is accepted. In Proceedings of the 2022 ACM International Conference on Interactive Surfaces and Spaces (ISS 2022)</p></td>
     </tr>
     <tr>
       <td><p><b>Mar 2022</b></p></td>
@@ -34,7 +34,7 @@ News
     </tr>
     <tr>
       <td><p><b>Sep 2021</b></p></td>
-      <td><p></p>A paper "Stepper, Swipe, Tilt, Force: Comparative Evaluation of Four Number Pickers for Smartwatches" is accepted. In Proceedings of the 2021 ACM International Conference on Interactive Surfaces and Spaces (ISS 2021)</td>
+      <td><p>A paper "Stepper, Swipe, Tilt, Force: Comparative Evaluation of Four Number Pickers for Smartwatches" is accepted. In Proceedings of the 2021 ACM International Conference on Interactive Surfaces and Spaces (ISS 2021)</p></td>
     </tr>
     <tr>
       <td><p><b>May 2020</b></p></td>
