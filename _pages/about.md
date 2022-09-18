@@ -14,7 +14,6 @@ I am a PhD student of Electrical Engineering and Computer Science, advised by Pr
 My research interest lies in the general area of alternative devices in HCI , particularly on interaction and input methods on wearable devices and flexible display.
 
 I received my Master Degree in [University of Southern California](https://www.usc.edu/), and Bachelor’s Degree in [Beijing Jiaotong University](http://en.njtu.edu.cn/).
-
 <br/><br/><br/><br/><br/>
 
 News
@@ -25,6 +24,6 @@ News
 <p><b>May 2020</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Received summer EECS Bobcat Fellowship at UC Merced</p>
 <p><b>Mar 2019</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Demonstrated my work on a force-based selection eethod for smartwatches to Congressman Jim Costa during his visit at UC Merced</p>
 <p><b>Jan 2019</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Accepted Ph.D. at UC Merced. Will begin in fall 2019!
-<p><b>May 2018</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Join Inclusive and Interactive Lab at UC Merced.
+<p><b>May 2018</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Join <a href="http://www.asarif.com/index.html">Inclusive and Interactive Lab</a> at UC Merced.</p>
 
   
