@@ -58,7 +58,7 @@ News
     </tr>
     <tr>
       <td><p><b>May 2018</b></p></td>
-      <td><p>Join <a href="http://www.asarif.com/index.html">Inclusive and Interactive Lab</a> at UC Merced.</p></td>
+      <td><p>Join <a href="http://www.asarif.com/index.html">Inclusive Interaction Lab</a> at UC Merced.</p></td>
     </tr>
   </tbody>
 </table>
