@@ -25,12 +25,16 @@ News
       <col width="85%" />
     </colgroup>
     <tr>
+      <td><p><b>Oct 2022</b></p></td>
+      <td><p>A paper "Investigating a Force-Based Selection Method for Smartwatches in a 1D Fitts' Law Study and Two New Character-Level Keyboards" is accepted. In Proceedings of the 2023 ACM International Conference on Tangible Embedded and Embodied Interaction (TEI 2023)</p></td>
+    </tr>
+    <tr>
       <td><p><b>Jun 2022</b></p></td>
       <td><p>A paper "Push, Tap, Dwell, and Pinch: Evaluation of Four Mid-Air Selection Methods Augmented with Ultrasonic Haptic Feedback" is accepted. In Proceedings of the 2022 ACM International Conference on Interactive Surfaces and Spaces (ISS 2022)</p></td>
     </tr>
     <tr>
       <td><p><b>Apr 2022</b></p></td>
-      <td><p>ReceivedEECS Bobcat Travel Fellowship at UC Merced</p></td>
+      <td><p>Received EECS Bobcat Travel Fellowship at UC Merced</p></td>
     </tr>
     <tr>
       <td><p><b>Mar 2022</b></p></td>
