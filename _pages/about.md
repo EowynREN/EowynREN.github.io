@@ -25,7 +25,7 @@ News
       <col width="85%" />
     </colgroup>
     <tr>
-      <td><p><b>Oct 2022</b></p></td>
+      <td><p><b>Nov 2022</b></p></td>
       <td><p>A paper "Investigating a Force-Based Selection Method for Smartwatches in a 1D Fitts' Law Study and Two New Character-Level Keyboards" is accepted. In Proceedings of the 2023 ACM International Conference on Tangible Embedded and Embodied Interaction (TEI 2023)</p></td>
     </tr>
     <tr>
