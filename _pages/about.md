@@ -34,11 +34,11 @@ News
     </tr>
     <tr>
       <td><p><b>Jun 2022</b></p></td>
-      <td><p>A paper "TiltWalker: Operating a Telepresence Robot with One-Hand by Tilt Controls on a Smartphone" is accepted. In Proceedings of the 2022 ACM International Conference on Interactive Surfaces and Spaces (ISS 2022)</p></td>
+      <td><p>A co-authored paper "TiltWalker: Operating a Telepresence Robot with One-Hand by Tilt Controls on a Smartphone" is accepted. In Proceedings of the 2022 ACM International Conference on Interactive Surfaces and Spaces (ISS 2022)</p></td>
     </tr>
     <tr>
       <td><p><b>Jun 2022</b></p></td>
-      <td><p>A paper "Push, Tap, Dwell, and Pinch: Evaluation of Four Mid-Air Selection Methods Augmented with Ultrasonic Haptic Feedback" is accepted. In Proceedings of the 2022 ACM International Conference on Interactive Surfaces and Spaces (ISS 2022) <strong>Best Paper Award</strong></p></td>
+      <td><p>A co-authored paper "Push, Tap, Dwell, and Pinch: Evaluation of Four Mid-Air Selection Methods Augmented with Ultrasonic Haptic Feedback" is accepted. In Proceedings of the 2022 ACM International Conference on Interactive Surfaces and Spaces (ISS 2022) <strong>Best Paper Award</strong></p></td>
     </tr>
     <tr>
       <td><p><b>Apr 2022</b></p></td>
