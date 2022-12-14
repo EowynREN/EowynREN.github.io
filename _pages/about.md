@@ -25,12 +25,20 @@ News
       <col width="85%" />
     </colgroup>
     <tr>
+      <td><p><b>Dec 2022</b></p></td>
+      <td><p>Became a Ph.D candidate</p></td>
+    </tr>
+    <tr>
       <td><p><b>Nov 2022</b></p></td>
       <td><p>A paper "Investigating a Force-Based Selection Method for Smartwatches in a 1D Fitts' Law Study and Two New Character-Level Keyboards" is accepted. In Proceedings of the 2023 ACM International Conference on Tangible Embedded and Embodied Interaction (TEI 2023)</p></td>
     </tr>
     <tr>
       <td><p><b>Jun 2022</b></p></td>
-      <td><p>A paper "Push, Tap, Dwell, and Pinch: Evaluation of Four Mid-Air Selection Methods Augmented with Ultrasonic Haptic Feedback" is accepted. In Proceedings of the 2022 ACM International Conference on Interactive Surfaces and Spaces (ISS 2022)</p></td>
+      <td><p>A paper "TiltWalker: Operating a Telepresence Robot with One-Hand by Tilt Controls on a Smartphone" is accepted. In Proceedings of the 2022 ACM International Conference on Interactive Surfaces and Spaces (ISS 2022)</p></td>
+    </tr>
+    <tr>
+      <td><p><b>Jun 2022</b></p></td>
+      <td><p>A paper "Push, Tap, Dwell, and Pinch: Evaluation of Four Mid-Air Selection Methods Augmented with Ultrasonic Haptic Feedback" is accepted. In Proceedings of the 2022 ACM International Conference on Interactive Surfaces and Spaces (ISS 2022) <strong>Best Paper Award</strong></p></td>
     </tr>
     <tr>
       <td><p><b>Apr 2022</b></p></td>
@@ -42,7 +50,7 @@ News
     </tr>
     <tr>
       <td><p><b>Sep 2021</b></p></td>
-      <td><p>A paper "Stepper, Swipe, Tilt, Force: Comparative Evaluation of Four Number Pickers for Smartwatches" is accepted. In Proceedings of the 2021 ACM International Conference on Interactive Surfaces and Spaces (ISS 2021)</p></td>
+      <td><p>A paper "Stepper, Swipe, Tilt, Force: Comparative Evaluation of Four Number Pickers for Smartwatches" is accepted. In Proceedings of the 2021 ACM International Conference on Interactive Surfaces and Spaces (ISS 2021)<strong>Honorable Mention Award</strong></p></td>
     </tr>
     <tr>
       <td><p><b>May 2020</b></p></td>
