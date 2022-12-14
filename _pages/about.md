@@ -26,7 +26,7 @@ News
     </colgroup>
     <tr>
       <td><p><b>Dec 2022</b></p></td>
-      <td><p>Became a Ph.D candidate</p></td>
+      <td><p>Became a Ph.D candidate!</p></td>
     </tr>
     <tr>
       <td><p><b>Nov 2022</b></p></td>
@@ -50,7 +50,7 @@ News
     </tr>
     <tr>
       <td><p><b>Sep 2021</b></p></td>
-      <td><p>A paper "Stepper, Swipe, Tilt, Force: Comparative Evaluation of Four Number Pickers for Smartwatches" is accepted. In Proceedings of the 2021 ACM International Conference on Interactive Surfaces and Spaces (ISS 2021)<strong>Honorable Mention Award</strong></p></td>
+      <td><p>A paper "Stepper, Swipe, Tilt, Force: Comparative Evaluation of Four Number Pickers for Smartwatches" is accepted. In Proceedings of the 2021 ACM International Conference on Interactive Surfaces and Spaces (ISS 2021) <strong>Honorable Mention Award</strong></p></td>
     </tr>
     <tr>
       <td><p><b>May 2020</b></p></td>
