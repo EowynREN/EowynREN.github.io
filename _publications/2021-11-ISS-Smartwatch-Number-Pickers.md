@@ -6,7 +6,7 @@ conference: 'ISS 2021'
 authors: "Yuan Ren, Ahmed Sabbir Arif"
 venue: 'ACM Interactive Surfaces and Spaces Conference (ISS 2021)'
 image-url: 'http://academicpages.github.io/files/smartwatch-number-pickers.jpg'
-accpetance-rate: '39%'
+accpetance-rate: '30%'
 download: 'http://academicpages.github.io/files/smartwatch-number-pickers.pdf'
 doi: 'https://dl.acm.org/doi/10.1145/3488545'
 demo: 'https://www.youtube.com/watch?v=HSqVBeiRE70'
