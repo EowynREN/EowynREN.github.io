@@ -86,10 +86,10 @@
             <td><img src="{{image-url}}" /></td>
             <td>
               <strong>{{ title }}</strong>
-              <p>123{{ authors }}</p>
-              <i>{{ venue }}</i>
+              <p>{{ post.authors }}</p>
+              <i>{{ post.venue }}</i>
               <ul class="pub-info">
-                <li>{{accpetance-rate}}</li>
+                <li>{{post.accpetance-rate}}</li>
                 <li><a href="">PDF</a></li>
                 <li><a href="https://doi.org/10.1145/3569009.3572741">DOI</a></li>
                 {% if post.award %}
