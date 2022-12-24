@@ -91,15 +91,15 @@
               <ul class="pub-info">
                 <li>{{post.accpetance-rate}}</li>
                 <li><a href="">PDF</a></li>
-                <li><a href="https://doi.org/10.1145/3569009.3572741">DOI</a></li>
+                <li><a href="{{ post.doi }}">DOI</a></li>
                 {% if post.demo %}
-                  <li><strong>{{post.demo}}</strong></li>
+                  <li><a href="{{ post.demo }}">{{post.demo}}</a></li>
                 {% endif %}
                 {% if post.talk %}
-                  <li><strong>{{post.talk}}</strong></li>
+                  <li><a href="{{ post.talk }}">{{post.talk}}</a></li>
                 {% endif %}
                 {% if post.award %}
-                  <li><strong>{{post.award}}</strong></li>
+                  <li><a href="{{ post.award }}">{{post.award}}</a></li>
                 {% endif %}
               </ul>  
             </td>
