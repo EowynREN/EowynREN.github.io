@@ -5,9 +5,9 @@ title: "Investigating a Force-Based Selection Method for Smartwatches in a 1D Fi
 conference: 'TEI 2023'
 authors: "Yuan Ren, Ahmed Sabbir Arif"
 venue: 'Conference on Tangible, Embedded, and Embodied Interaction (TEI 2023)'
-image-url: 'http://academicpages.github.io/files/TEI2023.png'
+image-url: 'http://EowynREN.github.io/files/TEI2023.png'
 accpetance-rate: '23%'
-download: 'http://academicpages.github.io/files/force-based-selection-method.pdf'
+download: 'http://EowynREN.github.io/files/force-based-selection-method.pdf'
 doi: 'https://doi.org/10.1145/3569009.3572741'
 ---
 
