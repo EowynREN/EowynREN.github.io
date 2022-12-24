@@ -16,16 +16,16 @@ Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal
 <!DOCTYPE html>
 <html>
 <head>
-<style>
-  table {
-    font-size: 18px;
-  }
-  
-  ul li {
-    display: inline;
-    padding: 10px;
-  }
-</style>
+  <style>
+    table {
+      font-size: 18px;
+    }
+
+    ul li {
+      display: inline;
+      padding: 10px;
+    }
+  </style>
 </head>
  
   
