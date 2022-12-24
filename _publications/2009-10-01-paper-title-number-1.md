@@ -1,3 +1,15 @@
+---
+collection: publications
+permalink: /publication/2009-10-01-paper-title-number-1
+title: "Investigating a Force-Based Selection Method for Smartwatches in a 1D Fitts' Law Study and Two New Character-Level Keyboards"
+authors: "Yuan Ren, Ahmed Sabbir Arif"
+venue: 'In the 17th International Conference on Tangible, Embedded, and Embodied Interaction (TEI 2023). ACM, New York, NY, USA, 10 pages.'
+image-url: 'http://academicpages.github.io/files/paper1.jpg'
+accpetance-rate: '23%'
+download: 'http://academicpages.github.io/files/paper1.pdf'
+doi: 'https://doi.org/10.1145/3569009.3572741'
+---
+
 <!-- ---
 title: "Paper Title Number 1"
 authors: "Yuan Ren, Ahmed Sabbir Arif"
@@ -14,17 +26,3 @@ This paper is about the number 1. The number 2 is left for future work.
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
 Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1). -->
-
----
-collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-title: "Investigating a Force-Based Selection Method for Smartwatches in a 1D Fitts' Law Study and Two New Character-Level Keyboards"
-authors: "Yuan Ren, Ahmed Sabbir Arif"
-venue: 'In the 17th International Conference on Tangible, Embedded, and Embodied Interaction (TEI 2023). ACM, New York, NY, USA, 10 pages.'
-image-url: 'http://academicpages.github.io/files/paper1.jpg'
-accpetance-rate: '23%'
-download: 'http://academicpages.github.io/files/paper1.pdf'
-doi: 'https://doi.org/10.1145/3569009.3572741'
----
-
-comments
