@@ -2,6 +2,7 @@
 collection: publications
 permalink: /publication/2023-02-TEI-Force-based-selection-method
 title: "Investigating a Force-Based Selection Method for Smartwatches in a 1D Fitts' Law Study and Two New Character-Level Keyboards"
+conference: 'TEI 2023'
 authors: "Yuan Ren, Ahmed Sabbir Arif"
 venue: 'In the 17th International Conference on Tangible, Embedded, and Embodied Interaction (TEI 2023). ACM, New York, NY, USA, 10 pages.'
 image-url: 'http://academicpages.github.io/files/paper1.jpg'
