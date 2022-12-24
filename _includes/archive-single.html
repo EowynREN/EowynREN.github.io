@@ -12,7 +12,7 @@
   {% assign title = post.title %}
 {% endif %}
 
-<div class="{{ include.type | default: "list" }}__item">
+<!-- <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     {% if include.type == "grid" and teaser %}
       <div class="archive__item-teaser">
@@ -61,4 +61,29 @@
     {% endif %}
 
   </article>
-</div>
+</div> -->
+
+<table>
+    <tbody>
+      <colgroup>
+        <col width="30%" />
+        <col width="70%" />
+      </colgroup>
+      <tr>
+        <td><img src={{image-url}} /></td>
+        <td>
+          <strong>{{ title }}</strong>
+          <p>{{ authors }}</p>
+          <i>{{ venue }}</i>
+          <ul class="pub-info">
+            <li>{{accpetance-rate}}</li>
+            <li><a href="">PDF</a></li>
+            <li><a href="https://doi.org/10.1145/3569009.3572741">DOI</a></li>
+            {% if post.award %}
+              <li><strong>{{award}}</strong></li>
+            {% endif %}
+          </ul>  
+        </td>
+      </tr>
+    </tbody>
+  </table>
