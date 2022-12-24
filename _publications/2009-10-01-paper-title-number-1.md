@@ -41,11 +41,11 @@ Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal
         <td>
           <strong>Investigating a Force-Based Selection Method for Smartwatches in a 1D Fitts' Law Study and Two New Character-Level Keyboards</strong>
           <p>Yuan Ren, Ahmed Sabbir Arif</p>
+          <i>In the 17th International Conference on Tangible, Embedded, and Embodied Interaction (TEI 2023). ACM, New York, NY, USA, 10 pages.</i>
           <ul>
             <li>23%</li>
             <li><a href="">PDF</a></li>
             <li><a href="https://doi.org/10.1145/3569009.3572741">DOI</a></li>
-            <li>PHP</li>
           </ul>  
         </td>
       </tr>
