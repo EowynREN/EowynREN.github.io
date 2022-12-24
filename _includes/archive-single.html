@@ -85,13 +85,19 @@
           <tr>
             <td><img src="{{post.image-url}}" /></td>
             <td>
-              <p class="pub-info"><strong>{{ title }}</strong>     {{post.conference}} </p>
+              <p class="pub-info"><strong>{{ title }}</strong>&nbsp;	&nbsp;	&nbsp;	&nbsp;{{post.conference}} </p>
               <p class="pub-info">{{ post.authors }}</p>
               <i class="pub-info">{{ post.venue }}</i>
               <ul class="pub-info">
                 <li>{{post.accpetance-rate}}</li>
                 <li><a href="">PDF</a></li>
                 <li><a href="https://doi.org/10.1145/3569009.3572741">DOI</a></li>
+                {% if post.demo %}
+                  <li><strong>{{post.demo}}</strong></li>
+                {% endif %}
+                {% if post.talk %}
+                  <li><strong>{{post.talk}}</strong></li>
+                {% endif %}
                 {% if post.award %}
                   <li><strong>{{post.award}}</strong></li>
                 {% endif %}
