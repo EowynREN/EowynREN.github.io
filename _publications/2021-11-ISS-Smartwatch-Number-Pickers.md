@@ -5,7 +5,7 @@ title: "Stepper, Swipe, Tilt, Force: Comparative Evaluation of Four Number Picke
 conference: 'ISS 2021'
 authors: "Yuan Ren, Ahmed Sabbir Arif"
 venue: 'ACM Interactive Surfaces and Spaces Conference (ISS 2021)'
-image-url: 'http://EowynREN.github.io/files/smartwatch-number-pickers.jpg'
+image-url: 'http://EowynREN.github.io/images/ISS2021.png'
 accpetance-rate: '30%'
 download: 'http://EowynREN.github.io/files/smartwatch-number-pickers.pdf'
 doi: 'https://dl.acm.org/doi/10.1145/3488545'
