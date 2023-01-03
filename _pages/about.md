@@ -58,7 +58,7 @@ News
     </tr>
     <tr>
       <td><p><b>Mar 2019</b></p></td>
-      <td><p>Demonstrated my work on a force-based selection eethod for smartwatches to Congressman Jim Costa during his visit at UC Merced</p></td>
+      <td><p>Demonstrated my work "A Force-Based Selection Method for Smartwatches" to Congressman Jim Costa during his visit at UC Merced</p></td>
     </tr>
     <tr>
       <td><p><b>Jan 2019</b></p></td>
