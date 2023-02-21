@@ -9,6 +9,7 @@ image-url: 'http://EowynREN.github.io/images/TEI2023.png'
 accpetance-rate: '23%'
 download: 'http://EowynREN.github.io/files/force-based-selection-method.pdf'
 doi: 'https://doi.org/10.1145/3569009.3572741'
+demo: 'https://www.youtube.com/watch?v=_IMesjPm4NA'
 ---
 
 <!-- ---
