@@ -25,6 +25,10 @@ News
       <col width="85%" />
     </colgroup>
     <tr>
+      <td><p><b>Mar 2023</b></p></td>
+      <td><p>A co-authored "GeShort: One-Handed Mobile Text Editing and Formatting with Gestural Shortcuts and a Floating Clipboard" is accepted. In Proceedings of the 2023 ACM International Conference on Mobile Human-Computer Interaction (MobileHCI 2023)</p></td>
+    </tr>
+    <tr>
       <td><p><b>Dec 2022</b></p></td>
       <td><p>Became a Ph.D candidate!</p></td>
     </tr>
