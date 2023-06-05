@@ -90,8 +90,12 @@
               <i class="pub-info">{{ post.venue }}</i>
               <ul class="pub-info">
                 <li>{{post.accpetance-rate}}</li>
+                {% if post.download %}
                 <li><a href="{{ post.download }}">PDF</a></li>
+                {% endif %}
+                {% if post.doi %}
                 <li><a href="{{ post.doi }}">DOI</a></li>
+                {% endif %}
                 {% if post.demo %}
                   <li><a href="{{ post.demo }}">Demo</a></li>
                 {% endif %}
