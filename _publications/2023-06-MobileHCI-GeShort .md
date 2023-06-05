@@ -6,7 +6,7 @@ conference: 'MobileHCI 2023'
 authors: "Gulnar Rakhmetulla, <u>Yuan Ren</u>, Ahmed Sabbir Arif"
 venue: 'Conference on Mobile Human-Computer Interaction'
 image-url: 'http://EowynREN.github.io/images/MobileHCI2023.png'
-accpetance-rate: '%'
+accpetance-rate: 'To Appear'
 # download: 'http://EowynREN.github.io/files/force-based-selection-method.pdf'
 # doi: 'https://doi.org/10.1145/3569009.3572741'
 # demo: 'https://www.youtube.com/watch?v=_IMesjPm4NA'
