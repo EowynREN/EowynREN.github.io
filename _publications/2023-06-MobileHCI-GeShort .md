@@ -10,5 +10,5 @@ accpetance-rate: '38%'
 download: 'http://EowynREN.github.io/files/GeShort.pdf'
 doi: 'https://doi.org/10.1145/3604259'
 demo: 'https://www.youtube.com/watch?v=ECpIwSNM0oE'
-# talk: 'https://www.youtube.com/watch?v=1NMZg9IHh4M'
+talk: 'https://www.youtube.com/watch?v=xyPQsoGxSiE'
 ---
