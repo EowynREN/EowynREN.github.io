@@ -25,12 +25,20 @@ News
       <col width="85%" />
     </colgroup>
     <tr>
+      <td><p><b>Mar 2024</b></p></td>
+      <td><p>A co-authored extended abstract "Effects of Static and Animated eBook Illustrations on Children’s Engagement, Enjoyment, and Recall of Information" is accepted. In Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI 2024)</p></td>
+    </tr>
+    <tr>
+      <td><p><b>Jan 2024</b></p></td>
+      <td><p>A co-authored paper "Investigating the Effects of Self-selected Pleasant Scents on Text Composition and Transcription Performance" is accepted. In Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI 2024)</p></td>
+    </tr>
+    <tr>
       <td><p><b>Sep 2023</b></p></td>
       <td><p>Presented a work "GeShort: One-Handed Mobile Text Editing and Formatting with Gestural Shortcuts and a Floating Clipboard" remotely at ACM MobileHCI 2023. Athens, Greece</p></td>
     </tr>
     <tr>
       <td><p><b>Mar 2023</b></p></td>
-      <td><p>A co-authored "GeShort: One-Handed Mobile Text Editing and Formatting with Gestural Shortcuts and a Floating Clipboard" is accepted. In Proceedings of the 2023 ACM International Conference on Mobile Human-Computer Interaction (MobileHCI 2023)</p></td>
+      <td><p>A co-authored paper "GeShort: One-Handed Mobile Text Editing and Formatting with Gestural Shortcuts and a Floating Clipboard" is accepted. In Proceedings of the 2023 ACM International Conference on Mobile Human-Computer Interaction (MobileHCI 2023)</p></td>
     </tr>
     <tr>
       <td><p><b>Feb 2023</b></p></td>
