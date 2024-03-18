@@ -26,6 +26,10 @@ News
     </colgroup>
     <tr>
       <td><p><b>Mar 2024</b></p></td>
+      <td><p>Received EECS Bobcat Travel Fellowship at UC Merced</p></td>
+    </tr>
+    <tr>
+      <td><p><b>Mar 2024</b></p></td>
       <td><p>A co-authored extended abstract "Effects of Static and Animated eBook Illustrations on Children’s Engagement, Enjoyment, and Recall of Information" is accepted. In Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI 2024)</p></td>
     </tr>
     <tr>
