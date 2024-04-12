@@ -11,5 +11,5 @@ download: 'http://EowynREN.github.io/files/ebooks-illustration.pdf'
 doi: 'https://doi.org/10.1145/3613905.3651033'
 demo: ''
 talk: ''
-award: ''
+<!--award: ''-->
 ---
