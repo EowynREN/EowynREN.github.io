@@ -37,6 +37,10 @@ News
       <td><p>A co-authored extended abstract "Effects of Static and Animated eBook Illustrations on Children’s Engagement, Enjoyment, and Recall of Information" is accepted. In Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI 2024)</p></td>
     </tr>
     <tr>
+      <td><p><b>Feb 2024</b></p></td>
+      <td><p>Accepted internship at <a href="https://www.bostonscientific.com/en-US/Home.html">Boston Scientific</a>. Will begin in May 2024!</p></td>
+    </tr>
+    <tr>
       <td><p><b>Jan 2024</b></p></td>
       <td><p>A co-authored paper "Investigating the Effects of Self-selected Pleasant Scents on Text Composition and Transcription Performance" is accepted. In Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI 2024)</p></td>
     </tr>
