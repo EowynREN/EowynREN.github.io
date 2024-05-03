@@ -78,7 +78,7 @@ News
     </tr>
     <tr>
       <td><p><b>Mar 2022</b></p></td>
-      <td><p>Accepted internship at Google AR. Will begin in May 2022!</p></td>
+      <td><p>Accepted internship at <a href="https://arvr.google.com">Google AR</a>. Will begin in May 2022!</p></td>
     </tr>
     <tr>
       <td><p><b>Sep 2021</b></p></td>
