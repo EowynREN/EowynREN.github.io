@@ -11,7 +11,7 @@ redirect_from:
 I am a Ph.D. student of Electrical Engineering and Computer Science, advised by Prof. [Ahmed Sabbir Arif](http://www.asarif.com/), at the [University of California, Merced](https://www.ucmerced.edu/).
 
 
-My research interest lies in the general area of alternative devices in HCI, particularly on interaction and input methods on wearable devices, such as smartwatches.
+My research interest lies in the general area of alternative devices in HCI, particularly on interaction and input methods on mobile and wearable devices, such as smartphones and smartwatches.
 
 I received my Master's Degree from [University of Southern California](https://www.usc.edu/), and my Bachelor’s Degree from [Beijing Jiaotong University](http://en.njtu.edu.cn/).
 <br/><br/><br/><br/><br/>
