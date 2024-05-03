@@ -25,6 +25,10 @@ News
       <col width="85%" />
     </colgroup>
     <tr>
+      <td><p><b>Apr 2024</b></p></td>
+      <td><p>	Successfully defended my PhD. Thanks to my committee members, Dr. Shawn Newsam, Dr. David Noelle, and Dr. Ahmed Arif!</p></td>
+    </tr>
+    <tr>
       <td><p><b>Mar 2024</b></p></td>
       <td><p>Received EECS Bobcat Travel Fellowship at UC Merced</p></td>
     </tr>
