@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student of Electrical Engineering and Computer Science, advised by Prof. [Ahmed Sabbir Arif](http://www.asarif.com/), at the [University of California, Merced](https://www.ucmerced.edu/).
+I am a Ph.D. student of Electrical Engineering and Computer Science, advised by Prof. [Ahmed Sabbir Arif](http://www.asarif.com/), at [University of California, Merced](https://www.ucmerced.edu/).
 
 
 My research interest lies in the general area of alternative devices in HCI, particularly on interaction and input methods on mobile and wearable devices, such as smartphones and smartwatches.
