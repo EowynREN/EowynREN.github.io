@@ -96,6 +96,9 @@
                 {% if post.doi %}
                 <li><a href="{{ post.doi }}">DOI</a></li>
                 {% endif %}
+                {% if post.preview %}
+                  <li><a href="{{ post.preview }}">Preview</a></li>
+                {% endif %}
                 {% if post.demo %}
                   <li><a href="{{ post.demo }}">Demo</a></li>
                 {% endif %}
