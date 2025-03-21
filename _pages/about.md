@@ -25,6 +25,14 @@ News
       <col width="85%" />
     </colgroup>
     <tr>
+      <td><p><b>Oct 2024</b></p></td>
+      <td><p>Started as a Sr Software Developer at <a href="https://www.bostonscientific.com/en-US/Home.html">Boston Scientific</a>.</p></td>
+    </tr>
+    <tr>
+      <td><p><b>May 2024</b></p></td>
+      <td><p>Began internship at <a href="https://www.bostonscientific.com/en-US/Home.html">Boston Scientific</a>.</p></td>
+    </tr>
+    <tr>
       <td><p><b>Apr 2024</b></p></td>
       <td><p>	Successfully defended my PhD. Thanks to my committee members, <a href="https://faculty.ucmerced.edu/snewsam/?_gl=1*o8vvun*_ga*ODI2NzA1NjYyLjE2ODg0MDEyNjI.*_ga_TSE2LSBDQZ*MTcxNDY5Njc3Ni41MC4xLjE3MTQ2OTcwMTEuNDguMC4w">Dr. Shawn Newsam</a>, <a href="https://sites.ucmerced.edu/dnoelle?_gl=1*1uwo51k*_ga*ODI2NzA1NjYyLjE2ODg0MDEyNjI.*_ga_TSE2LSBDQZ*MTcxNDY5Njc3Ni41MC4xLjE3MTQ2OTcwNTEuOC4wLjA.">Dr. David Noelle</a>, and <a href="https://theiilab.com">Dr. Ahmed Arif</a>!</p></td>
     </tr>
