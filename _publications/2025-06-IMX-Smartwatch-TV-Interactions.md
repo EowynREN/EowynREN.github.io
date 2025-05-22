@@ -7,8 +7,8 @@ authors: "<u>Yuan Ren</u>, Ahmed Sabbir Arif"
 venue: 'ACM Interactive Media Experiences'
 image-url: 'http://EowynREN.github.io/images/IMX2025.jpg'
 accpetance-rate: '40%'
-# download: 'http://EowynREN.github.io/files/smartwatch-number-pickers.pdf'
+download: 'http://EowynREN.github.io/files/WristFlick.pdf'
 doi: 'https://doi.org/10.1145/3706370.3727864'
-# demo: 'https://www.youtube.com/watch?v=HSqVBeiRE70'
+demo: 'https://www.youtube.com/watch?v=doSByCTEZoM'
 # talk: 'https://www.youtube.com/watch?v=Vf72E1S9ENI'
 ---
