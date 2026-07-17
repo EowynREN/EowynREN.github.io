@@ -25,6 +25,10 @@ News
       <col width="85%" />
     </colgroup>
     <tr>
+      <td><p><b>May 2025</b></p></td>
+      <td><p>A paper "Evaluating Tap, Flick, Force, and Wrist Gestures for Interacting with Vertical Displays via Smartwatch" is accepted. In Proceedings of the 18th International Conference on PErvasive Technologies Related to Assistive Environments (PETRA 2025).</p></td>
+    </tr>
+    <tr>
       <td><p><b>Apr 2025</b></p></td>
       <td><p>A paper "WristFlick: Design and Evaluation of a Smartwatch-Based System for Interacting with Smart Televisions" is accepted. In Proceedings of the 2025 ACM International Conference on Interactive Media Experiences (IMX 2025)</p></td>
     </tr>
